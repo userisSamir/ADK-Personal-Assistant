@@ -5,7 +5,7 @@ This project is a submission for the "Agents Intensive - Capstone Project" hacka
 
  Features Implemented
 
-This agent successfully demonstrates **5 key concepts** from the hackathon list:
+This agent successfully demonstrates **5 key concepts** from the hackathon list(5 day ai-agent course-2025):
 
 1.  Agent powered by an LLM: Uses `gemini-2.0-flash` for reasoning and natural language conversation.
 2.  Custom Tools: Features 5 custom-built Python tools that connect to real-world APIs:
