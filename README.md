@@ -1,4 +1,4 @@
-# Hackathon: Personal Travel Assistant (ADK Agent)
+Personal Travel Assistant (ADK Agent)
 
 This project is a submission for the "Agents Intensive - Capstone Project" hackathon. It is an "all-in-one" conversational AI assistant built using the Google Agent Development Kit (ADK).
 
