@@ -1,0 +1,4 @@
+google-adk
+requests
+tavily-python
+google-cloud-aiplatform
